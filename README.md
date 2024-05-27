@@ -23,7 +23,7 @@ Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo u
 
 
 ## 📫 Contactar
-- Email: [tu-email@example.com](mailto:elias.bs2@hotmail.com)
+- Email: elias.bs2@hotmail.com (mailto:elias.bs2@hotmail.com)
 - LinkedIn: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
 
 ## 🌐 Redes Sociales
