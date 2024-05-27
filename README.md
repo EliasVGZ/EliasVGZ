@@ -33,7 +33,7 @@ Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo u
 
 
 ## 🎉 Extras
-- 🌟 **Hobbies**: Tocar la guitarra y el bajo. Me gusta leer y emprender viajes sin rumbo fijo, guiado solo por la libertad que me ofrece mi furgoneta.
+- 🌟 **Hobbies**: Tocar la guitarra y el bajo. Me gusta leer y realizar escapadas en furgoneta.
 - 📚 **Certificaciones**: Ciclo Superior Desarrollo Aplicaciones Multiplataforma.
 
 ---
