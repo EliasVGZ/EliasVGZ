@@ -4,7 +4,7 @@
 Hola, soy un estudiante de DAM actualmente realizando practicas, apasionado por la tecnología y la innovación. Me gusta el desarrollo de aplicaciones web y móviles, y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. 
 
 - 🌍 Vivo en: Vigo/España
-- 🖥️ Actualmente realizando practias
+- 🖥️ Actualmente realizando practicas
 - 🌱 Aprendiendo: Javascript, Php, Pl/Sql
 
 ## 🚀 Habilidades
@@ -16,6 +16,8 @@ Hola, soy un estudiante de DAM actualmente realizando practicas, apasionado por 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+
+
 ## 🌟 Proyectos Destacados
 ### Jastas-Pista https://github.com/EliasVGZ/Jastas-Pista
 Jastas-Pista es una aplicación Java que gestiona eventos como conciertos, festivales y fiestas populares en Galicia. 
@@ -23,15 +25,16 @@ Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo u
 
 
 ## 📫 Contactar
-- Email: elias.bs2@hotmail.com (mailto:elias.bs2@hotmail.com)
-- LinkedIn: [tu-linkedin](https://www.linkedin.com/in/tu-linkedin)
+- Email: elias.bs2@hotmail.com 
+- LinkedIn: https://www.linkedin.com/in/elias-viera-fernandez-a57345221
 
 ## 🌐 Redes Sociales
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-viera-fernandez-a57345221/)
+
 
 ## 🎉 Extras
-- 🌟 **Hobbies**: Tocar la guitarra, el bajo.
-- 📚 **Certificaciones**: Ciclo Superior Desarrollo Aplicaciones Multiplataforma
+- 🌟 **Hobbies**: Tocar la guitarra y el bajo. Me gusta leer y emprender viajes sin rumbo fijo, guiado solo por la libertad que me ofrece mi furgoneta.
+- 📚 **Certificaciones**: Ciclo Superior Desarrollo Aplicaciones Multiplataforma.
 
 ---
 
