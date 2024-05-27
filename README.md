@@ -15,12 +15,18 @@ Hola, soy un estudiante de DAM actualmente realizando practicas, apasionado por 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PQDesigner](https://img.shields.io/badge/PQDesigner-1A2B34?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qt Designer](https://img.shields.io/badge/Qt%20Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-0F4D92?style=for-the-badge&logo=odoo&logoColor=white)
+
+
+
 
 
 
 ## 🌟 Proyectos Destacados
 ### Jastas-Pista https://github.com/EliasVGZ/Jastas-Pista
-Jastas-Pista es una aplicación Java que gestiona eventos como conciertos, festivales y fiestas populares en Galicia. 
+Jastas-Pista es una aplicación en Android Studio que gestiona eventos como conciertos, festivales y fiestas populares en Galicia. 
 Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo una solución completa para la organización y gestión de eventos
 
 
