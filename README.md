@@ -38,10 +38,6 @@ Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo u
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-viera-fernandez-a57345221/)
 
 
-## 🎉 Extras
-- 🌟 **Hobbies**: Tocar la guitarra y el bajo. Me gusta leer y realizar escapadas en furgoneta.
-- 📚 **Certificaciones**: Ciclo Superior Desarrollo Aplicaciones Multiplataforma.
-
 ---
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y habilidades. Siéntete libre de contactarme para cualquier colaboración o pregunta.
