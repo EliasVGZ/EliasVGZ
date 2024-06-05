@@ -1,7 +1,7 @@
 # 👋 EliasVGZ
 
 ## 📖 Sobre Mí
-Hola, soy un estudiante de DAM actualmente realizando practicas. Me gusta el desarrollo de aplicaciones web y móviles, y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades. 
+Programador Junior. 
 
 - 🌍 Vivo en: Vigo/España
 - 🖥️ Actualmente realizando practicas
