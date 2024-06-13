@@ -25,7 +25,7 @@ Programador Junior.
 
 
 ## 🌟 Proyectos Destacados
-### EventosGaliciaApp https://github.com/EliasVGZ/EventosGaliciaApp
+### EventosGaliciApp https://github.com/EliasVGZ/EventosGaliciaApp
 EventosGaliciaApp es una aplicación en Android Studio que gestiona eventos como conciertos, festivales y fiestas populares en Galicia. 
 Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo una solución completa para la organización y gestión de eventos
 
