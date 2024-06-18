@@ -29,7 +29,7 @@ EventosGaliciaApp es una aplicación en Android Studio que gestiona eventos como
 Utiliza Firebase para almacenar y sincronizar datos en tiempo real, ofreciendo una solución completa para la organización y gestión de eventos
 
 ### CarTeisApp  https://github.com/EliasVGZ/AppCarTeis
-CarTeisApp es una aplicación de escritorio hecha con Python y QtDesigner. Fue creada en el segundo curso del ciclo superior DAM. Permite gestionar el alquiler de vehículos, los conductores y calcular el pago según la distancia recorrida.
+AppCarTeis es una aplicación de escritorio hecha con Python y QtDesigner. Fue creada en el segundo curso del ciclo superior DAM. Permite gestionar el alquiler de vehículos, los conductores y calcular el pago según la distancia recorrida.
 Utilizar SQLite para gestionar las bases de datos de forma local.
 
 
