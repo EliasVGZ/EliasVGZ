@@ -4,8 +4,7 @@
 Programador Junior. 
 
 - 🌍 Vivo en: Vigo/España
-- 🖥️ Actualmente realizando practicas
-- 🌱 Aprendiendo: Javascript, Php, Pl/Sql. 
+- 🌱 Programador Junior
 
 ## 🚀 Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
