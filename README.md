@@ -4,7 +4,8 @@
 Programador Junior. 
 
 - 🌍 Vivo en: Vigo/España
-- 🌱 Programador Junior
+- 🌱 Grado Superior de Desarrollo Aplicaciones Multiplataformas.
+- 🌱 Aunque en DAM se enseñan principalmente otros lenguajes como Java y Python, en mis prácticas tuve la oportunidad de aprender JavaScript, PHP y PL/SQL, ampliando así mis conocimientos en diferentes tecnologías.
 
 ## 🚀 Habilidades
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
