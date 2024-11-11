@@ -27,6 +27,7 @@ Programador Junior.
 ## 🌟 Proyectos Destacados
 ###  Pet-Care https://github.com/EliasVGZ/dog-care
 Pet Care es una aplicación que ayuda a los propietarios de mascotas a monitorizar los paseos, baños y administración de medicamentos de sus animales. Surge de la necesidad de cuidar de manera más organizada a mascotas de edad avanzada, como en mi caso, mi perra de 12 años. En la aplicacion se realiza el registro de paseos, baños y administración de medicamentos, alertas y recordatorios para la próxima dosis de medicamentos o baño.
+
 Backend: SpringBoot
 Base de datos: MySQL
 Frontend: Android Studio
